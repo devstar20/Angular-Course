@@ -1,1 +1,1 @@
-Angular Course
+Angular Course With Angular 2+
